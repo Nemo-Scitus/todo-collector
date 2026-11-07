@@ -1,0 +1,9 @@
+{
+  "id": "todo-collector",
+  "name": "Todo Collector",
+  "version": "0.1.0",
+  "minAppVersion": "1.4.0",
+  "description": "Collects every open - [ ] todo in the vault into one _TODO.md note, grouped by folder and note.",
+  "author": "ssethuraman",
+  "isDesktopOnly": false
+}
